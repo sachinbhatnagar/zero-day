@@ -1,0 +1,65 @@
+body {
+  background-color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 50px;
+}
+
+.loginbox {
+  background-color: #ffffff;
+  border: 2px solid #000000;
+  width: 300px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  color: #333333;
+  font-size: 28px;
+  margin-top: 0;
+}
+
+p {
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #555555;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #999999;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #4a90d9;
+  color: white;
+  border: 1px solid #333333;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+hr {
+  border: 1px solid #cccccc;
+}
+
+.googlebtn {
+  display: block;
+  width: 280px;
+  padding: 10px;
+  background-color: #dd4444;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 14px;
+  border: 1px solid #000000;
+  margin-left: auto;
+  margin-right: auto;
+}
